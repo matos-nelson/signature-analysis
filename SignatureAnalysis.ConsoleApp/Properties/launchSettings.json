@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SignatureAnalysis.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Nelson\\Downloads\\Intro_To_Information_Security\\ C:\\Users\\Nelson\\source\\repos\\SignatureAnalysis\\Files\\test.txt True"
+    }
+  }
+}
